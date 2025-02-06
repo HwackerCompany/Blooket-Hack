@@ -1,8 +1,7 @@
 # Blooket-Hack
 The ultimate blooket hack
 # The Code:
-```
-
+```js
 (async () => {
                 var e = document.createElement("iframe");
                 document.body.append(e), window.confirm = e.contentWindow.confirm.bind(window), e.remove(), Object.values(webpackJsonp.push([
